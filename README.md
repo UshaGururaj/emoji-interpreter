@@ -1,2 +1,2 @@
 # emoji-interpreter
-Created with CodeSandbox
+Created with CodeSandbox using html, css and react.js.
